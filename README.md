@@ -1,1 +1,2 @@
-# pack-man-lite
+# synchronousBallMovement
+Ball moving synchronously
